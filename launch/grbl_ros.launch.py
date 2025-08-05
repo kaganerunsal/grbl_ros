@@ -35,7 +35,7 @@ def generate_launch_description():
 
     node = Node(
         package='grbl_ros',
-        name='cnc_001',
+        name='docking_tray_config',
         executable='grbl_node',
         parameters=[config])
 

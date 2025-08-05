@@ -1,7 +1,7 @@
 /**:
   ros__parameters:
     machine_id: cnc_001
-    port: /dev/ttyUSB0
+    port: /dev/ttyUSB_dock_motor_Arduino
     baudrate: 115200
     accleration: 50 # mm / min^2
     x_max: 300  # mm
